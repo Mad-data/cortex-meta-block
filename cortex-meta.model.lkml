@@ -8,7 +8,7 @@ datagroup: meta_report_default_datagroup {
   max_cache_age: "1 hour"
 }
 
-label: "Cortex META"
+label: "M:AD Brillium META"
 
 persist_with: meta_report_default_datagroup
 
