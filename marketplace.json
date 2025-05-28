@@ -20,9 +20,9 @@
   },
       "models": [
         {
-            "name": "cortex-meta",
+            "name": "cortex_meta_block",
             "connection_constant": "CONNECTION_NAME"
         }
     ]
-  
+
 }
