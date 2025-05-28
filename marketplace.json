@@ -12,7 +12,7 @@
       "value_constraint": "connection"
     },
     "GCP_PROJECT_ID": {
-      "label": "madgrowth-data"
+      "label": "gcp project id"
     },
     "REPORTING_DATASET": {
       "label": "Reporting Dataset Name"
